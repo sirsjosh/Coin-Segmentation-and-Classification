@@ -1,4 +1,5 @@
 # Coin Segmentation and Classification
+<img src="testCoinImage1.png"/>
 
 ## Overview
 This project aims to segment and classify coins from images using computer vision techniques. The main goal is to develop a pipeline that identifies and segments valid coins from images of coin collections, distinguishing them from blanks (non-coin regions). The project utilizes edge detection, morphological operations, and circle detection to extract the coins, and it classifies them based on their size.
